@@ -101,7 +101,7 @@
   </build>
   	</profile>
   	<profile>
-  		<id>testng</id>
+  		<id>smoke</id>
   		 <build>
   <plugins>
    
