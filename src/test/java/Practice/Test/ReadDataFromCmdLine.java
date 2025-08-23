@@ -9,10 +9,13 @@ public class  ReadDataFromCmdLine {
 	{
 		String BROWSER = System.getProperty("browser");
 		System.out.println(BROWSER);
+		
 		String USERNAME = System.getProperty("username");
 		System.out.println(USERNAME);
+		
 		String PWD= System.getProperty("password");
 		System.out.println(PWD);
+		
 		String URL= System.getProperty("url");
 		System.out.println(URL);
 	}
