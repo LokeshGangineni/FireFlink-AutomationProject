@@ -7,6 +7,9 @@ public class  ReadDataFromCmdLine {
 	@Test	
 	public void checking()
 	{
+		
+		
+		
 		String BROWSER = System.getProperty("browser");
 		System.out.println(BROWSER);
 		String USERNAME = System.getProperty("username");
